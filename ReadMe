@@ -1,0 +1,9 @@
+
+/2016/08/29 权限库爬坑日志
+适配6.0难免会遇到权限申请的问题，项目采用了PermissionsDispatcher 
+
+参考博客
+
+http://blog.csdn.net/maimiho/article/details/51912618
+
+http://blog.csdn.net/quan356270259/article/details/50876272
